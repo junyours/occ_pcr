@@ -4,6 +4,8 @@
 /public/build
 /public/uploads
 /storage/*.key
+/storage/framework/passport-keys.lock
+/storage/framework/passport-client.ready
 /vendor
 .env
 .env.backup
